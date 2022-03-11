@@ -4,6 +4,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 
+// this is the chat screen
+
 class ChatScreen extends StatefulWidget {
   String _contactName = "", _displayPicture = "";
   bool _online = false;
